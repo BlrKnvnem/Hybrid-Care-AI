@@ -88,6 +88,10 @@ HybridCare AI is **not a substitute for professional medical or psychological ad
 
 ---
 
+👨‍💻 Author
+**BlrKnvnem** — https://github.com/BlrKnvnem
+
+---
 
 ## 📜 License
 
